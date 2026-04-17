@@ -1,12 +1,12 @@
 
-# Vaani Verse AI Study Assistant — Requirements Specification (Judge-Grade)
+# Vaani Verse AI Study Assistant — Requirements Specification
 
 ## 1. Purpose
-This document defines clear, testable, and judge-evaluable requirements for the Vaani Verse AI Study Assistant. It is designed to demonstrate **problem clarity, feasibility, innovation, and technical readiness**.
+This document defines clear, testable, and evaluable requirements for the Vaani Verse AI Study Assistant. It is designed to demonstrate **problem clarity, feasibility, innovation, and technical readiness**.
 
 ---
 
-## 2. Problem Statement (What Judges Look For)
+## 2. Problem Statement
 
 Students struggle with:
 - Converting goals into realistic daily study plans  
@@ -27,7 +27,7 @@ Students struggle with:
 - Progress analytics & exports  
 - Calendar & reminder integration  
 
-### Out-of-Scope (Explicit for Judges)
+### Out-of-Scope
 - Full content delivery  
 - Human tutoring  
 - Advanced proctoring  
@@ -40,7 +40,7 @@ Students struggle with:
 |------|----------|
 | Students | Primary users |
 | Educators | Validation & feedback |
-| Judges/Evaluators | System feasibility & innovation |
+| Evaluators | System feasibility & innovation |
 | Developers | Implementation |
 
 ---
