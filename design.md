@@ -1,5 +1,5 @@
 
-# Vaani Verse AI Study Assistant — System Design (Judge‑Grade)
+# Vaani Verse AI Study Assistant — System Design 
 
 ## 1. Design Objectives
 - Voice-first  
@@ -75,7 +75,7 @@ Framework: Node.js + Express
 
 ---
 
-## 5. Rescheduling Logic (Judge Interest)
+## 5. Rescheduling Logic 
 
 Algorithm:
 - Detect missed tasks  
@@ -109,7 +109,7 @@ Guarantee:
 
 ---
 
-## 8. Why This Design Wins (Judge View)
+## 8. Why This Design Wins 
 
 - Multi‑agent AI = modular + scalable  
 - Validation‑based completion = unique  
