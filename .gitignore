@@ -1,0 +1,40 @@
+﻿# ============================================================
+# Vaani Verse Monorepo
+# ============================================================
+
+# Environment / secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Node
+**/node_modules/
+**/dist/
+**/coverage/
+**/.next/
+**/.expo/
+**/.turbo/
+
+# TypeScript generated files
+**/*.tsbuildinfo
+
+# Logs
+**/*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# IDE
+.idea/
+*.iml
+
+# VS Code workspace-local files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# OS
+.DS_Store
+Thumbs.db
